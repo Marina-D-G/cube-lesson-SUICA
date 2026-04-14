@@ -6,9 +6,9 @@ This project was created for learning purposes and demonstrates core frontend sk
 
 How to use - Clone the repository:
 
-- git clone https://github.com/your-username/project-name.git
+- git clone https://github.com/Marina-D-G/cube-lesson-SUICA.git
 - Open the project folder.
-- Run index.html in your browser.
+- Run project.html in your browser.
 
 💡 Note
 This is a learning project and is not intended for production use.
